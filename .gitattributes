@@ -1,0 +1,5 @@
+housing.csv
+house_model.pkl
+__pycache__/
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.csv
