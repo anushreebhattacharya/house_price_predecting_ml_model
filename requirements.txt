@@ -1,5 +1,10 @@
+pip
+setuptools>=65.5.0
+wheel
+
 fastapi
 uvicorn
-pandas
 numpy
+pandas
 scikit-learn
+pydantic
