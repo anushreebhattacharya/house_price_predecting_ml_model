@@ -1,5 +1,5 @@
 pip
-setuptools>=65.5.0
+setuptools
 wheel
 
 fastapi
