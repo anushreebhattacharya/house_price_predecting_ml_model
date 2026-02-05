@@ -4,7 +4,6 @@ wheel
 
 fastapi
 uvicorn
-numpy
 pandas
+numpy
 scikit-learn
-pydantic
